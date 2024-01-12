@@ -1,0 +1,8 @@
+@inproceedings{REPO245,
+    author = "Zha, Daochen and Xie, Jingru and Ma, Wenye and Zhang, Sheng and Lian, Xiangru and Hu, Xia and Liu, Ji",
+    booktitle = "Proceedings of the 38th International Conference on Machine Learning",
+    pages = "12333--12344",
+    title = "{DouZero: Mastering DouDizhu with Self-Play Deep Reinforcement Learning}",
+    volume = "139",
+    year = "2021"
+}
